@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/RBTree.hpp
+RBTreeNode.hpp
+../include/RBTreeNode.hpp
+iostream
+-
+
+../include/RBTreeNode.hpp
+
+C:/CodeWork/Project/DataStructure/RBTree/src/main.cpp
+iostream
+-
+cstring
+-
+sstream
+-
+RBTree.hpp
+C:/CodeWork/Project/DataStructure/RBTree/src/RBTree.hpp
+RBTreeNode.hpp
+C:/CodeWork/Project/DataStructure/RBTree/src/RBTreeNode.hpp
+
